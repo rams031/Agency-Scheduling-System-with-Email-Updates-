@@ -1,0 +1,84 @@
+@import url('https://rsms.me/inter/inter.css');
+@import url('home.css');
+@import url('admin.css');
+
+@media(max-width: 768px) {
+
+    #asidenavdivider {
+        display: none;
+    }
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+
+table {
+    text-transform: capitalize;
+}
+
+.section {
+    padding : 10px;
+}
+
+li {
+    font-weight: 500;
+    margin-top:5px;
+}
+
+span {
+    font-weight: 400;
+}
+
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+td a {
+    margin:3px;
+}
+
+form{
+    margin: 10px 20px 0px 0px;
+}
+
+form label ,
+label {
+    font-weight: bold;
+}
+
+select {
+    border: 1px solid grey;
+}
+
+
+td {
+    padding:0;
+    margin:0;
+    font-weight: 600;
+}
+
+.dashboardtag {
+    margin:0px 0px 10px 0px;
+    padding:12px 12px 12px 12px; 
+}
+
+
+
+
+
+
+
+
+
+
+

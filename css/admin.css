@@ -1,0 +1,122 @@
+#navbarcentered .navbar-brand {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding:5px;
+}
+#maxheight {
+    margin:0;
+}
+
+#sidenavcustom .menu .navbar-menu #list-type .menu-list #ftable .logo #logodisplay {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sidenavcustom .menu .navbar-menu #list-type .menu-list #employeeinfo .sidenavlist #employeename {
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+#sidenavcustom .menu .navbar-menu #list-type .menu-list #employeeinfo .sidenavlist #employee-position {
+    text-align: center;
+    font-weight: 400;
+}
+
+#sidenavcustom .menu .navbar-menu #list-type .menu-list #employeeinfo .logout {
+    text-align: center;
+    background-color: #E7E7E7;
+    padding: 0;
+    border-radius: 6px;
+}
+
+.viewapplication .container #maxheight #rightbody .backbutton {
+    margin: 10px;
+}
+
+table {
+    margin: 10px 0px 10px 0px;
+}
+
+.activebox {
+    background-color: #E7E7E7;
+    border-radius: 3px;
+}
+
+.fc-axis {
+    width: 120px !important;
+    height: 50px !important;
+}
+
+:disabled {
+    background-color: #EEEEEE;
+}
+
+td.fc-day.fc-past {
+    background-color: #EEEEEE;
+}
+
+.column.selectedit {
+    padding:1;
+}
+
+.fc-center h2 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.fc-month-button {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.fc-agendaDay-button{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.fc-content-skeleton {
+    padding:0px 0px 0px;
+}
+
+.tile.is-child.box p.title {
+    font-size:100px;
+    font-weight: bold;
+}
+
+.fc-today-button {
+    display:none;
+}
+
+.activebox ,
+.logout{
+    font-weight: bold;
+}
+
+.tag {
+    margin: 3px 0px 5px 3px;
+}
+
+
+.column
+{
+    margin:10px;
+    
+}
+
+.main {
+    background-color: #fafafa;
+    
+}
+
+.main .container {
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+#asidenavdivider {
+    padding:2px;
+}
+

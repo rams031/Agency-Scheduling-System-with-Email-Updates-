@@ -1,0 +1,61 @@
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+#category #category-list {
+    border-radius: 6px;
+}
+
+div.title {
+    font-weight: "bold";
+}
+
+button {
+    margin: 5px 5px 0px 0px;
+}
+
+.pagination {
+    margin: 0 auto;
+    font-size: 14px !important;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    width: 324px;
+}
+
+.pagination a {
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: transparent;
+    background-image: none;
+}
+
+.navbar .navbar-end a {
+    color: white;
+}
+
+.navbar-end {
+    background-color: transparent;
+    background-image: none;
+}
+
+#titles {
+    font-weight: 600;
+}
+
+#infosubtitle {
+    font-weight: bold;
+}
+
+.footer {
+    height: 100px;
+    padding: 20px;
+}
+
+figure #logoimg {
+    margin-left: 20px;
+}
