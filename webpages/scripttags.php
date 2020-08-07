@@ -1,0 +1,10 @@
+<script src="../node_modules/js/jquery.min.js"></script>
+<script src="../node_modules/js/moment.min.js"></script>
+<script src="../node_modules/js/fullcalendar.js"></script>
+<script src="../node_modules/js/list.min.js"></script>
+<script src="../node_modules/st2/sweetalert2.min.js"></script>
+<script src="../node_modules/js/aos.js"></script>
+<script src="../node_modules/datatable/datatables.min.js"></script>
+<script src="../node_modules/datatables-bulma/js/dataTables.bulma.min.js"></script>
+<script defer src="../node_modules/fontawesome/js/all.js"></script>
+<script src="../node_modules/parallax/parallax.js"></script>
